@@ -13,7 +13,7 @@ class Node {
     deleteAt(index){
         // if index is negative or greater than size or list is empty
         if(index>this.size || index < 0 || this.size===0){
-            console.log(-1)
+            
             return false;
         }
         let current=this.head;
@@ -29,6 +29,8 @@ class Node {
           i++;
         }
         prev.next=current.next
+        this.size--;
+        return true;
     }
     add(value) {
       const node = new Node(value);
