@@ -1,4 +1,4 @@
-Detect Palindrome II -23:25:55
+Detect Palindrome II 
 Description
 
 You are given a string S. Find if the string, can be converted into a palindrome.
