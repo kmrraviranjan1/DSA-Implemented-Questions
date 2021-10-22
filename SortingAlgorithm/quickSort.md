@@ -1,0 +1,35 @@
+Quickly Sort
+Description
+
+You are given an array of N integers. Write QUICK SORT ALGORITHM to sort the numbers in ascending order
+
+DO NOT USE ANY BUILTIN FUNCTION TO SORT
+
+ALSO, YOU MUST NOT USE ANY OTHER ALGORITHM
+
+
+Input
+Input Format
+
+First line contains N
+
+Second line contains N space separated integers
+
+Constraints
+
+N < 1000
+
+
+Output
+Output Format
+
+Print the sorted numbers separated by space
+
+
+Sample Input 1 
+
+5
+3 5 0 9 8
+Sample Output 1
+
+0 3 5 8 9
